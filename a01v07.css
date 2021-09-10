@@ -27,14 +27,14 @@ h1 {
 
 p {
     text-indent: 40px;
-    font-size: 17px;
+    font-size: 19px;
 }
 mark {
     background: #ffec82;
     padding: 0 3px;
    }
 dl, ul, ol{
-    font-size: 17px;
+    font-size: 19px;
 }
 u{
     color: rgb(40, 90, 230);
