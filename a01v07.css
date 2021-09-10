@@ -1,0 +1,47 @@
+.page-break {
+    page-break-after: always;
+}
+body{
+    width: 50%;
+    margin-left: 400px;
+}
+.img1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.img2 {
+    float: right;
+    margin: 7px 0 7px 7px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#page1, #page2 {
+    page-break-after: always;
+}
+
+p {
+    text-indent: 40px;
+    font-size: 17px;
+}
+mark {
+    background: #ffec82;
+    padding: 0 3px;
+   }
+dl, ul, ol{
+    font-size: 17px;
+}
+u{
+    color: rgb(40, 90, 230);
+}
+p1{
+    font-family: 'Courier New', Courier, monospace;
+}
+tr:nth-child(even){
+    background-color: rgb(218, 213, 213);
+}
